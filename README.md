@@ -21,7 +21,7 @@ Each folder contains **beginner-friendly code**, **inline comments**, and **real
 - ✅ **Arrays** – Traversing, Searching, Sorting, Matrix Operations  
 - ✅ **Switch Statements** – Menu-based Programs  
 - ✅ **Classes & Objects** – OOP Fundamentals & Mini Projects
-- ✅ **Pointers** – Introduction, Arithmetic, and Applications 
+- ✅ Pointers – Mastering memory management, dynamic arrays, pointer-to-pointer concepts, and practical mini-projects 
 - ✅ **Linked Lists** – Traversal, Insertion, Deletion by Value  
 - ⏳ **Coming Soon:** Stacks and Queues  
 
@@ -45,7 +45,7 @@ Each folder contains **beginner-friendly code**, **inline comments**, and **real
   OOP mini-projects: Bank, Student, Employee, Library
 
 - **06_Pointers**  
-  Pointer basics, pointer arithmetic, and applications
+   Mastering pointers: basic operations, pointer arithmetic, dynamic memory, and practical mini-projects.
 
 - **07_Linked_List**  
   Linked list operations: insertion, deletion, traversal
