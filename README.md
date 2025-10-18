@@ -20,12 +20,12 @@ Each folder contains **beginner-friendly code**, **inline comments**, and **real
 - ✅ **Functions** – Parameters, Return Values, Mini Projects  
 - ✅ **Arrays** – Traversing, Searching, Sorting, Matrix Operations  
 - ✅ **Switch Statements** – Menu-based Programs  
-- ✅ **Pointers** – Introduction, Arithmetic, and Applications  
-- ✅ **Classes & Objects** – OOP Fundamentals & Mini Projects  
+- ✅ **Classes & Objects** – OOP Fundamentals & Mini Projects
+- ✅ **Pointers** – Introduction, Arithmetic, and Applications 
 - ✅ **Linked Lists** – Traversal, Insertion, Deletion by Value  
 - ⏳ **Coming Soon:** Stacks and Queues  
 
----
+----
 
 ## 🗂️ Folder Structure & Description
 
@@ -41,11 +41,11 @@ Each folder contains **beginner-friendly code**, **inline comments**, and **real
 - **04_Switch_Statements**  
   Menu-based programs using switch-case
 
-- **05_Pointers**  
-  Pointer basics, pointer arithmetic, and applications
-
-- **06_Classes_Objects**  
+- **05_Classes_Objects**  
   OOP mini-projects: Bank, Student, Employee, Library
+
+- **06_Pointers**  
+  Pointer basics, pointer arithmetic, and applications
 
 - **07_Linked_List**  
   Linked list operations: insertion, deletion, traversal
